@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c8e3881626924945a6256e7be23a89b5
+timeCreated: 1709623544
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Services/Ads/Networks/IronsourceAdsHandler.cs
+  uploadId: 725012

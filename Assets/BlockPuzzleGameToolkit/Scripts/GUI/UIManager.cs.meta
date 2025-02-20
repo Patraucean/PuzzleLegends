@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b46e327667804829b444b6866d5d5e8e
+timeCreated: 1727667184
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/GUI/UIManager.cs
+  uploadId: 725012

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b60a316fdb72486ea91097dbef9cbb9f
+timeCreated: 1729248308
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Popups/Failed.cs
+  uploadId: 725012

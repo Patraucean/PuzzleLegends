@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12af2fda3fe67f547bb65b1ce71d1cb9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Animations/spin_button.anim
+  uploadId: 725012

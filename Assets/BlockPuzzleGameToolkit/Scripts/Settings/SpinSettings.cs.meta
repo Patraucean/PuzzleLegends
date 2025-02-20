@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dc3a7fad003f41b9ac029425b4d01382
+timeCreated: 1691992529
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Settings/SpinSettings.cs
+  uploadId: 725012

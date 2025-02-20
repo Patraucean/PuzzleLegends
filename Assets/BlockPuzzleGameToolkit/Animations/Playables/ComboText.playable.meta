@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a992f835f0ea049dab125f76515c4725
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Animations/Playables/ComboText.playable
+  uploadId: 725012

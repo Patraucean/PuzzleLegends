@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b07a9dfbefd2c4749af88de55c02ce4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Resources/ProductIDs/CoinsProduct4.asset
+  uploadId: 725012

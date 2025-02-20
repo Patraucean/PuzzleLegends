@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef339ad583a584ebb98c084f76683b84
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Animations/GUI/Score_prewin.anim
+  uploadId: 725012

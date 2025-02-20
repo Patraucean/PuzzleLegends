@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c20ba3464f284bed8370fcefe71e9b5d
+timeCreated: 1694162792
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/AnimationBehaviours/DelayBeforeStart.cs
+  uploadId: 725012

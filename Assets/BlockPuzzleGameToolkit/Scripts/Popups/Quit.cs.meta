@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1627a1f4ce114cc486cc853f8a946e12
+timeCreated: 1726165082
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Popups/Quit.cs
+  uploadId: 725012

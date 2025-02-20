@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86aad1ac116ab4ba8b173ee2e5d51ef9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/VFX/Visual Effect.prefab
+  uploadId: 725012

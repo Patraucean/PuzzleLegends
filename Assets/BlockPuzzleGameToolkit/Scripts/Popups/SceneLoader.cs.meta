@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b3d805f2764540d59695480d886c6756
+timeCreated: 1725686397
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Popups/SceneLoader.cs
+  uploadId: 725012

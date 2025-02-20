@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce35d346926594d4aa2c3bcbce551799
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Prefabs/FX/Sparkle_bonus.prefab
+  uploadId: 725012

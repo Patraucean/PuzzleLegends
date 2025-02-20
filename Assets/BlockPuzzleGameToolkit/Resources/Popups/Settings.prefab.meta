@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 42fecf35a1e774a20a5f0e45c3d3c10e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Resources/Popups/Settings.prefab
+  uploadId: 725012

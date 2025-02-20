@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: df60ddff9f8c4a3aaf38fff3d7c20b38
+timeCreated: 1712991176
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Utils/VectorUtils.cs
+  uploadId: 725012

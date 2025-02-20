@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 296a000e50624ee092b6cb07efe88443
+timeCreated: 1728571768
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/LevelsData/BonusItemTemplate.cs
+  uploadId: 725012

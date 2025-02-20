@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c9659348afa04bc6bb30eb6900f94b65
+timeCreated: 1725694504
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/GUI/CustomButton.cs
+  uploadId: 725012

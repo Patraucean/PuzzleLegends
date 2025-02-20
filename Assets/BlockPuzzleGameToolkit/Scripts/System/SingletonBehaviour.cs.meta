@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 72690b591b7e4edc8d4887649133671b
+timeCreated: 1725684407
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/System/SingletonBehaviour.cs
+  uploadId: 725012

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4b7c53c55edd43e887228e39e3e0ddb5
+timeCreated: 1729237057
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Popups/PrePlayScore.cs
+  uploadId: 725012

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cdd7fd149661a54284323d5ab959bd4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Resources/Levels/Level_67.asset
+  uploadId: 725012

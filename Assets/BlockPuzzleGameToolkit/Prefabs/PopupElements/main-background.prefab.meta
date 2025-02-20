@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 098b06ba7da4841eba4eb109547a4b1f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Prefabs/PopupElements/main-background.prefab
+  uploadId: 725012

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89bd51fe761e04497ba71bae70b20801
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Resources/Popups/Day_1 Locked.prefab
+  uploadId: 725012

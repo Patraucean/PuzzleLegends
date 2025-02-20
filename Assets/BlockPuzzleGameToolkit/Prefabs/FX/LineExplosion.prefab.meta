@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83f55c00fd12f428893e1e17677416c7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Prefabs/FX/LineExplosion.prefab
+  uploadId: 725012

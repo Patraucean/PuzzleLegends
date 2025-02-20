@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 47120653b84447ad89b92ff05740a2fb
+timeCreated: 1727797776
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/UIBuilder/LevelEditorStyles.uss
+  uploadId: 725012

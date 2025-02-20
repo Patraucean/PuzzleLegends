@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88c9f51e8542e47d28fa27d5846353d5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scenes/main.unity
+  uploadId: 725012

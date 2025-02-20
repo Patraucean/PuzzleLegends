@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3308a34a723b94018abfeb98e7033f43
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Resources/Popups/PreWin_Bonus.prefab
+  uploadId: 725012

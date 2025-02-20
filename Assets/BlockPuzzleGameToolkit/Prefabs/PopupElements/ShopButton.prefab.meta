@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a90a7a36be6c3249a0612ab1316c8fc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Prefabs/PopupElements/ShopButton.prefab
+  uploadId: 725012

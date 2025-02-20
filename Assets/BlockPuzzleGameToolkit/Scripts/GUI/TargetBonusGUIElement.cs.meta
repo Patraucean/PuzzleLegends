@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 14e8e65cba4d46d1b92a1e234fea6704
+timeCreated: 1728985695
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/GUI/TargetBonusGUIElement.cs
+  uploadId: 725012

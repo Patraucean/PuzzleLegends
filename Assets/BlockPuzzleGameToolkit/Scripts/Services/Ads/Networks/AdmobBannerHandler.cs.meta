@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d3606b19b7f348cea65dc3082d89cafd
+timeCreated: 1726566442
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Services/Ads/Networks/AdmobBannerHandler.cs
+  uploadId: 725012

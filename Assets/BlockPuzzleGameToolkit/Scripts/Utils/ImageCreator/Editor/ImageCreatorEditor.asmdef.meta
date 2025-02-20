@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80203850072e04e989fc8dcb13d2243e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Utils/ImageCreator/Editor/ImageCreatorEditor.asmdef
+  uploadId: 725012

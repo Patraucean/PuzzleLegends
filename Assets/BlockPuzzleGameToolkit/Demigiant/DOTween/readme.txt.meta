@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: fccfc62abf2eb0a4db614853430894fd
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Demigiant/DOTween/readme.txt
+  uploadId: 725012

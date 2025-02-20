@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf6a793cee6b341c4ad75bd74f4d6870
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Cameras/Screen2.renderTexture
+  uploadId: 725012

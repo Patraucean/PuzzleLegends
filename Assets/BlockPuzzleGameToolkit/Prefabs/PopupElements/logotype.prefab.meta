@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c8e4739e8dd640cd9446b343d1439dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Prefabs/PopupElements/logotype.prefab
+  uploadId: 725012

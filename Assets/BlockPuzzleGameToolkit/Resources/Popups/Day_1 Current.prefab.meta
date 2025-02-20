@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd8ab51e27e704888b797b121ecbce4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Resources/Popups/Day_1 Current.prefab
+  uploadId: 725012

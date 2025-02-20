@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ad6248f40eeb479c9cb378cd50b2e42c
+timeCreated: 1729335388
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Map/MapField.cs
+  uploadId: 725012

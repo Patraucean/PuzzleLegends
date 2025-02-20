@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0842f95857d34b26adc08a0a1fd9f297
+timeCreated: 1729076105
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Popups/Banner.cs
+  uploadId: 725012

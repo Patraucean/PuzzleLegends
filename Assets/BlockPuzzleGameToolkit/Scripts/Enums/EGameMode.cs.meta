@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7782e85ac5a84ba1b2f68cb896802e91
+timeCreated: 1728897127
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Puzzle: Game Toolkit'
+  packageVersion: 1.06
+  assetPath: Assets/BlockPuzzleGameToolkit/Scripts/Enums/EGameMode.cs
+  uploadId: 725012
