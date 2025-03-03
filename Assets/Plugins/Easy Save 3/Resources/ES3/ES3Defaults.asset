@@ -39,9 +39,11 @@ MonoBehaviour:
     - CandySmith.Ads
     - CandySmith.BlockPuzzle.Main
     - CandySmith.IAP
+    - Common.TA
     - DOTween.Modules
     - Purchasing.Common
     - Reordable
+    - Zenject
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1

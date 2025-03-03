@@ -371,8 +371,8 @@ MonoBehaviour:
   _defaultTab: {fileID: 8742274927141453254}
   _tabButtons:
   - {fileID: 5995568690336936511}
-  - {fileID: 4171150874772073717}
   - {fileID: 8742274927141453254}
+  - {fileID: 4171150874772073717}
   TabChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -437,7 +437,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8785169788101671469}
   m_Layer: 5
-  m_Name: Roaster
+  m_Name: Party
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -597,14 +597,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.305, g: 0.15349673, b: 0.121601306, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 909969ef7ab0d428c8a6b640ab051d04, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -991,7 +991,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Roaster
+  m_text: Party
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1542,7 +1542,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5943396, g: 0.5522873, b: 0.5522873, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1688,7 +1688,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7264151, g: 0.68872374, b: 0.68872374, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1775,9 +1775,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 9156942634749848395}
     m_Modifications:
+    - target: {fileID: 980702290769429427, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e9215a31a29998f40b7837cc9ae8d169, type: 3}
     - target: {fileID: 2728663143506274708, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
       propertyPath: m_Name
-      value: NavigationBarButton_Roaster
+      value: NavigationBarButton_Party
       objectReference: {fileID: 0}
     - target: {fileID: 5177831640519746624, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
       propertyPath: m_Pivot.x
@@ -1859,6 +1863,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8188982578036765593, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e9215a31a29998f40b7837cc9ae8d169, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1891,7 +1899,7 @@ PrefabInstance:
     - target: {fileID: 980702290769429427, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 30cb4cdcf91a94bed934aac8a49dbff2, type: 3}
+      objectReference: {fileID: 21300000, guid: 565bf87e1c589e4429cff66df6748542, type: 3}
     - target: {fileID: 2728663143506274708, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
       propertyPath: m_Name
       value: NavigationBarButton_Home
@@ -1979,7 +1987,7 @@ PrefabInstance:
     - target: {fileID: 8188982578036765593, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 30cb4cdcf91a94bed934aac8a49dbff2, type: 3}
+      objectReference: {fileID: 21300000, guid: 565bf87e1c589e4429cff66df6748542, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2009,9 +2017,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 9156942634749848395}
     m_Modifications:
+    - target: {fileID: 980702290769429427, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1fec366795f801b428c070d628202a3a, type: 3}
     - target: {fileID: 2728663143506274708, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
       propertyPath: m_Name
       value: NavigationBarButton_Shop
+      objectReference: {fileID: 0}
+    - target: {fileID: 3465340611378188529, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 3465340611378188529, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 105
       objectReference: {fileID: 0}
     - target: {fileID: 5177831640519746624, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
       propertyPath: m_Pivot.x
@@ -2093,6 +2113,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5873604442605830739, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 95
+      objectReference: {fileID: 0}
+    - target: {fileID: 5873604442605830739, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 95
+      objectReference: {fileID: 0}
+    - target: {fileID: 8188982578036765593, guid: 24aec759d7c3a4c4b978f1c461656f6b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1fec366795f801b428c070d628202a3a, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
